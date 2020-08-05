@@ -9,10 +9,9 @@ img{
 body{
     background-color: black;
     color: white;
-    font-family: 'Lato', sans-serif;
 }
 .long-history-about-baba-einstein {
-    color: blue;
+    color: white;
     line-height: 160%;
 }
 
@@ -21,5 +20,9 @@ li {
 }
 
 strong, b {
-    color: blue;
+    color: lightblue;
 }
+
+
+
+
