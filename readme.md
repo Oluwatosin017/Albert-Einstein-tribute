@@ -30,4 +30,4 @@ I have issues importing the font from google fonts and aligning the image as i h
 In my upcoming weeks or tasks as an wejapa intern, i hope to be much better at styling and creating unique and responsive apps.
 
 ## Project Link
-https://oluwatosin017.github.io/albert-einstein-tribute/
+https://oluwatosin017.github.io/Albert-Einstein-tribute/
