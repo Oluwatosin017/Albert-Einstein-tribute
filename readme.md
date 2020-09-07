@@ -4,7 +4,7 @@
 This is a personal project dedicated to the tribute of Albert Einstein
 
 ## Reasons
-I chose him because i aspire to be like him. He was one of the greates physicist of all time and changed the world. He was super smart and created the atomic bomb with his infamous equation "E = MC^2"
+I chose him because i aspire to be like him. He was one of the greatest physicist of all time and changed the world. He was super smart and created the atomic bomb with his infamous equation "E = MC^2"
 
 ## Typography & Styling
 
